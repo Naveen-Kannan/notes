@@ -1,0 +1,50 @@
+{
+  "originHash" : "59ce4904fedaade495ff5e246dc772105831994996b2c07e30f04b13071e1a19",
+  "pins" : [
+    {
+      "identity" : "flow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Naveen-Kannan/flow.git",
+      "state" : {
+        "revision" : "38d15b6ee157e9cae30f1b489b2734c7f5be1c84"
+      }
+    },
+    {
+      "identity" : "fluidaudio",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FluidInference/FluidAudio.git",
+      "state" : {
+        "revision" : "9830ce835881c0d0d40f90aabfaae3a6da5bebfb",
+        "version" : "0.12.4"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections.git",
+      "state" : {
+        "revision" : "a0cb0954ecb21e4e31b0070e6ed5674e8556685a",
+        "version" : "1.6.0"
+      }
+    },
+    {
+      "identity" : "swift-jinja",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/huggingface/swift-jinja.git",
+      "state" : {
+        "revision" : "1e4d0dc69f7ec1277131fb3853808229c5991825",
+        "version" : "2.5.2"
+      }
+    },
+    {
+      "identity" : "swift-transformers",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/huggingface/swift-transformers",
+      "state" : {
+        "revision" : "573e5c9036c2f136b3a8a071da8e8907322403d0",
+        "version" : "1.1.6"
+      }
+    }
+  ],
+  "version" : 3
+}
